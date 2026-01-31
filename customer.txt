@@ -1,0 +1,20 @@
+C0001,Milo Ais,Female,milo99@gmail.com,0123456789,Milo@9999,01/02/2000
+C0002,Kopi,Male,kopi88@gmail.com,1122222222,Kopibeng@8888,01/12/2000
+C0003,xx,Male,xx@gmail.com,1111111111,Xx@123456,05/12/2005
+C0004,zx,Female,zx@gmail.com,9999991111,Zx@12345,25/12/2005
+C0005,Black,Male,black000@apu.my,5554447777,Black@547,17/09/2025
+C0006,White,Male,white111@apu.my,5555444444,White@123,12/12/1999
+C0008,Walk-in Patient,Unknown,walkinc0008@apu.my,0000000000,Tempc0008!,01/01/1970
+C0009,Jack,Male,jack0128@apu.my,0122228888,Jack@0128,01/12/2000
+C0010,Walk-in Patient,Unknown,walkinc0010@gmail.com,0000000000,Tempc0010!,01/01/1970
+C0011,Walk-in Patient,Unknown,walkinc0011@gmail.com,0000000000,Tempc0011!,01/01/1970
+C0012,Celine,Female,celine2@gmail.com,01596482651,ABcd@12345,02/20/2001
+C0013,Walk-in Patient,Unknown,walkinc0013@gmail.com,0000000000,Tempc0013!,01/01/1970
+C0014,Walk-in Patient,Unknown,walkinc0014@gmail.com,0000000000,Tempc0014!,01/01/1970
+C0015,Hehe,Female,hehe@gmail.com,01032516428,Ab@581234,02/06/2006
+C0016,Walk-in Patient,Unknown,walkinc0016@gmail.com,0000000000,Tempc0016!,01/01/1970
+C0017,Cham,Male,cham,7777799999,Cham@12345,03/10/2006
+C0018,Marry Lim,Female,marry@gmail.com,04969971645,Marry@123,25/12/2006
+C0021,Hahaha,Female,haha@gmail.com,01234567892,Haha@12345,01/05/2005
+C0022,Paul,Male,paul@gmail.com,0111111111,Paul@1234,02/09/2000
+C0023,Walk-in Patient(Black),Unknown,walkinc0023@gmail.com,0000000000,Tempc0023!,01/01/1970

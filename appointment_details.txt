@@ -1,0 +1,28 @@
+A0901,100.00,General checkup,,false
+A0902,200.00,Diabetes follow-up,,false
+A0903,150.00,Flu treatment,sdfghj,false
+A0905,180.00,Blood test and consultation,,false
+A0906,220.00,Minor surgery,,false
+A0907,100.00,Fever,Rest more,false
+A0908,80.0,Fever,Rest more,false
+
+A1003,36.00,Fever,drink more water,true
+A1004,80.00,Fever,drink more water,true
+A1005,80.00,Fever,drink more water,true
+A1006,80.00,Fever,drink more water,true
+A1007,50.00,Knee injury,Do not let the wound come into contact with water for three days,false
+A1005,23.00,fever,drink more water,true
+A1009,85.0,Right leg fracture,reduce walking,false
+A1010,100.00,pharyngitis,Talk less,false
+A1010,600.00,pharyngitis,Talk less,false
+A1013,500.0,Eye problem,rest more for eye,true
+A1026,200.0,Fever,rest more,true
+A1039,100.0,difficulty breathing,rest more,false
+A1040,89.0,fever,drink more water,false
+A1008,88.00,Bleeding forehead,Do not let the wound come into contact with water for a week,true
+A1048,30.0,Gastroenteritis,Eat on time,false
+A1053,20.00,Fever,rest more,false
+A1052,30.00,Fever,rest about 3 days.,false
+A1050,25.00,sore throat,talk less,false
+A1043,300.0,Heart attack,rest more,false
+A1057,200.0,heart attack,,false

@@ -1,0 +1,12 @@
+A1002,C0001,Nice doctor!,5,Friendly staff!,5
+A1006,C0001,the doctor is patient and polite,5,Friendly,5
+A0907,C0004,Nice and handsome dr!!! *_*,5,Always provide good services,5
+A0908,C0003,dr john is friendly ^^,5,staff did not smile at the customer,1
+A1009,C0004,Dr Ho is friendly and gentlemen,5,Marry is friendly!,5
+A1013,C0005,A nice dr,5,friendly staff!!!!,5
+A1021,C0012,greatt,4,Very Patient,4
+A1039,C0003,Nice doctor!!,5,impatient staff,2
+A1026,C0003,i love dr mei!,5,the staff is friendly!,5
+A1053,C0012,Dedicated doctor,5,Nice staff,4
+A0901,C0005,Patient doctor!,5,Nice staff,4A1050,C0003,Good,4,Nice,5
+A1043,C0003,Good,4,Nice,4

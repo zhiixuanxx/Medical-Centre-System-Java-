@@ -1,0 +1,78 @@
+A0901,C0005,Black,D001,Dr. John,15/08/2024,10:00,Completed,Paid
+A0902,C0005,Black,D002,Dr. Amy,16/08/2024,11:00,Completed,Paid
+A0903,C0002,Kopi,D003,Dr. Lee,17/09/2024,09:30,Completed,Paid
+A0904,C0002,Kopi,D001,Dr. John,18/09/2024,14:00,Cancelled,Paid
+A0905,C0006,White,D002,Dr. Amy,19/10/2024,08:00,Completed,Paid
+A0906,C0006,White,D003,Dr. Lee,20/10/2024,16:00,Completed,Paid
+A0907,C0004,zx,D007,Dr. Lim,25/10/2024,10:00,Completed,Paid
+A0908,C0003,xx,D001,Dr. John,24/09/2025,21:00,Completed,Paid
+A1001,C0001,Milo Ais,D001,Dr. John,10/10/2025,14:00,Upcoming,Unpaid
+A1002,C0004,zx,D005,Dr. Michael,06/09/2025,10:00,Cancelled,Unpaid
+A1003,C0000,Walk-in Patient,D0015,Jennie,31/08/2025,23:45,Completed,Paid
+A1004,C0000,Walk-in Patient,D0011,Dr. Lisa,04/09/2025,21:12,Completed,Paid
+A1005,C0005,Walk-in Patient,D0011,Dr. Lisa,04/09/2025,23:10,Completed,Paid
+A1006,C0008,Walk-in Patient,D0011,Dr. Lisa,04/09/2025,23:21,Completed,Paid
+A1007,C0005,Black,D006,Dr. Farah,05/09/2025,08:00,Completed,Paid
+A1008,C0004,zx,D004,Dr. Mei,27/09/2025,14:30,Completed,Paid
+A1009,C0004,zx,D008,Dr. Ho,23/09/2025,00:25,Completed,Paid
+A1010,C0004,zx,D004,Dr. Mei,27/09/2025,14:00,Completed,Paid
+A1011,C0003,xx,D001,Dr. John,26/09/2025,10:00,Cancelled,Unpaid
+A1012,C0004,zx,D004,Dr. Mei,27/09/2025,13:30,Completed,Paid
+A1013,C0005,Black,D005,Dr. Michael,24/09/2025,08:00,Completed,Unpaid
+A1014,C0009,Walk-in Patient,D0015,Dr. Jennie,23/09/2025,22:35,Emergency,Paid
+A1015,C0010,Walk-in Patient,D0011,Dr. Lisa,24/09/2025,01:17,Emergency,Paid
+A1016,C0010,Walk-in Patient,D0011,Dr. Lisa,24/09/2025,01:51,Emergency,Paid
+A1017,C0011,Walk-in Patient,D0011,Dr. Lisa,24/09/2025,02:00,Emergency,Paid
+A1018,C0012,Celine,D005,Dr. Michael,24/09/2025,09:30,Cancelled,Unpaid
+A1019,C0012,Celine,D006,Dr. Farah,25/09/2025,09:30,Cancelled,Unpaid
+A1020,C0012,Celine,D007,Dr. Lim,24/09/2025,04:11,Emergency,Unpaid
+A1021,C0012,Celine,D007,Dr. Lim,24/09/2025,04:12,Completed,Unpaid
+A1022,C0013,Walk-in Patient,D007,Dr. Lim,24/09/2025,04:12,Completed,Paid
+A1023,C0003,xx,D001,Dr. John,24/09/2025,08:30,Cancelled,Unpaid
+A1024,C0003,xx,D004,Dr. Mei,26/09/2025,08:00,Cancelled,Unpaid
+A1025,C0003,xx,D004,Dr. Mei,24/09/2025,22:00,Cancelled,Unpaid
+A1026,C0003,xx,D004,Dr. Mei,24/09/2025,22:00,Completed,Paid
+A1027,C0014,Walk-in Patient,D0011,Dr. Lisa,24/09/2025,16:13,Emergency,Unpaid
+A1028,C0003,xx,D001,Dr. John,02/10/2025,08:00,Cancelled,Unpaid
+A1029,C0003,xx,D001,Dr. John,01/10/2025,08:30,Cancelled,Unpaid
+A1030,C0003,xx,D006,Dr. Farah,25/09/2025,08:00,Cancelled,Unpaid
+A1031,C0008,Walk-in Patient,D008,Dr. Ho,24/09/2025,20:16,Emergency,Unpaid
+A1032,C0006,White,D008,Dr. Ho,24/09/2025,20:16,Emergency,Unpaid
+A1033,C0003,xx,D008,Dr. Ho,24/09/2025,20:16,Emergency,Unpaid
+A1034,C0003,xx,D002,Dr. Amy,27/09/2025,08:00,Cancelled,Unpaid
+A1035,C0012,Celine,D005,Dr. Michael,25/09/2025,11:30,Upcoming,Unpaid
+A1036,C0012,Celine,D008,Dr. Ho,24/09/2025,21:43,Emergency,Unpaid
+A1037,C0016,Walk-in Patient,D008,Dr. Ho,24/09/2025,21:43,Emergency,Unpaid
+A1038,C0004,zx,D006,Dr. Farah,23/09/2025,08:00,Upcoming,Unpaid
+A1039,C0003,xx,D001,Dr. John,23/09/2025,09:00,Completed,Paid
+A1040,C0012,Celine,D001,Dr. John,03/10/2025,23:30,Completed,Paid
+A1041,C0012,Celine,D005,Dr. Michael,26/09/2025,15:30,Upcoming,Unpaid
+A1042,C0003,xx,D002,Dr. Amy,25/09/2025,09:00,Cancelled,Unpaid
+A1043,C0003,xx,D001,Dr. John,29/09/2025,08:30,Completed,Paid
+A1044,C0017,Walk-in Patient,D008,Dr. Ho,29/09/2025,01:08,Emergency,Unpaid
+A1045,C0018,Walk-in Patient,D008,Dr. Ho,29/09/2025,01:10,Emergency,Unpaid
+A1046,C0001,Milo Ais,D008,Dr. Ho,29/09/2025,01:12,Emergency,Unpaid
+A1047,C0003,xx,D0017,Dr. Rose,03/10/2025,01:13,Emergency,Unpaid
+A1048,C0003,xx,D0015,Dr. Jennie,03/10/2025,01:13,Completed,Paid
+A1049,C0019,Walk-in Patient,D008,Dr. Ho,03/10/2025,01:13,Emergency,Unpaid
+A1050,C0003,xx,D001,Dr. John,07/10/2025,08:00,Completed,Unpaid
+A1051,C0020,Walk-in Patient,D0017,Dr. Rose,03/10/2025,22:22,Emergency,Unpaid
+A1052,C0021,Walk-in Patient,D0015,Dr. Jennie,03/10/2025,22:22,Completed,Unpaid
+A1053,C0012,Celine,D008,Dr. Ho,03/10/2025,22:23,Completed,Paid
+A1054,C0012,Celine,D001,Dr. John,08/10/2025,11:00,Upcoming,Unpaid
+A1055,C0001,Milo Ais,D001,Dr. John,08/10/2025,13:00,Upcoming,Unpaid
+A1056,C0002,Kopi,D001,Dr. John,08/10/2025,13:30,Upcoming,Unpaid
+A1057,C0004,zx,D001,Dr. John,08/10/2025,15:30,Completed,Paid
+A1058,C0005,Black,D001,Dr. John,08/10/2025,16:00,Upcoming,Unpaid
+A1059,C0009,Jack,D001,Dr. John,08/10/2025,17:00,Upcoming,Unpaid
+A1060,C0017,Cham,D005,Dr. Michael,09/10/2025,08:00,Upcoming,Unpaid
+A1061,C0003,xx,D001,Dr. John,08/10/2025,15:00,Upcoming,Unpaid
+A1062,C0018,Marry Lim,D0020,Dr. Daniel,07/10/2025,22:16,Emergency,Unpaid
+A1063,C0003,xx,D001,Dr. John,10/10/2025,08:00,Upcoming,Unpaid
+A1065,C0014,Walk-in Patient,D0020,Dr. Daniel,08/10/2025,09:35,Emergency,Unpaid
+A1066,C0022,Paul,D002,Dr. Amy,10/10/2025,16:00,Upcoming,Unpaid
+A1067,C0022,Paul,D001,Dr. John,10/10/2025,09:30,Upcoming,Unpaid
+A1068,C0021,Hahaha,D0011,Dr. Lisa,08/10/2025,11:39,Emergency,Unpaid
+A1069,C0021,Hahaha,D0016,Dr. Jisoo,08/10/2025,11:40,Emergency,Unpaid
+A1070,C0023,Walk-in Patient(Black),D0019,Dr. Sophia,08/10/2025,11:41,Emergency,Unpaid
+A1071,C0004,zx,D001,Dr. John,11/10/2025,08:00,Upcoming,Unpaid
